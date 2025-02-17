@@ -4,7 +4,7 @@
 
 # Sobre mim
 Ola meu nome é Lilian Floriano, graduada em Licenciatura em Computação em 2016, Minha experiencia é em Hardware, como sporte tercnico, não atuei em Software, 
-Comecei a estudar TI com 18 anos com curso tecnico em informatica e me apaixonei, Amo estudar Desenvolvimento. apesar de esta longe da area pois apos formação somente agora em 2025 estou retornando ao estudos e assim me atualizar.
+Comecei a estudar TI com 18 anos, realizando curso tecnico em informatica e me apaixonei, Amo estudar Desenvolvimento. apesar de esta longe da area pois apos formação somente agora em 2025 estou retornando ao estudos e assim me atualizar.
 
 . PHP / MySQL
 
